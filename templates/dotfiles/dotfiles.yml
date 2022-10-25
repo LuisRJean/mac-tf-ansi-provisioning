@@ -1,0 +1,5 @@
+---
+rcm_user: LuisRJean
+rcm_repos:
+  - repo: 'https://github.com/LuisRJean/dotfiles'
+    dest: '/Users/LuisJean/dotfiles'

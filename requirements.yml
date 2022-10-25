@@ -1,0 +1,6 @@
+---
+- src: 'k.rcm-dotfiles'
+- src: '.homebrew'
+  version: '3.1.0'
+- src: '.mas'
+  version: '1.2.0'
